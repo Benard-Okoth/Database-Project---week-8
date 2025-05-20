@@ -18,7 +18,7 @@ This is a MySQL-based database system for managing clinic appointments, patients
 
 ## 🔗 ERD
 
-![ERD](./ERD.png)
+![ERD](images\clinic_erd.png)
 
 ## 👨‍⚕️ Sample Use Cases
 
